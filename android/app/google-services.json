@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "586001303604",
+    "project_id": "easyrental-b3d75",
+    "storage_bucket": "easyrental-b3d75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586001303604:android:fed65f419575b81536e261",
+        "android_client_info": {
+          "package_name": "com.example.easyrental"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-OgmzZ7flkNagLOTonwJi12TRphOsAtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
